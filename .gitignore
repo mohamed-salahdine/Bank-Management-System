@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/Debug/
+*.ilk
+*.pdb
+*.idb
+*.ipdb
+*.exe
+*.log
+*.obj
+
+# Visual Studio Code
+.vscode/
+
+# Others
+Thumbs.db
+desktop.ini
+
+# Text editor swap files
+*~
+*.swp
